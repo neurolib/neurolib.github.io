@@ -28,7 +28,8 @@ computational neuroscientists.
 
 ### Who are the NeuroLib team?
 
-The NeuroLib team includes Ashok Veeraraghavan, [Jacob Robinson](http://robinsonlab.com), 
+The NeuroLib team are [Ashok Veeraraghavan](http://www.ece.rice.edu/~av21/), 
+[Jacob Robinson](http://robinsonlab.com), 
 and [Caleb Kemere](http://rnel.rice.edu). We are supported by the [Ken Kennedy
 Institute](http://www.k2i.rice.edu/) at Rice University.
 
