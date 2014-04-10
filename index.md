@@ -12,3 +12,9 @@ easy to access. What we ask in return is a moderate effort for curation. This fa
 second aspect of the NeuroLib, facilitating collaborations between experimental and
 computational neuroscientists.
 
+# Who are the NeuroLib team?
+
+The NeuroLib team includes Ashok Veeraraghavan, Jacob Robinson, and Caleb Kemere. We are
+supported by the [Ken Kennedy Institute](http://www.k2i.rice.edu/) at Rice University.
+
+
