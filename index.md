@@ -3,26 +3,12 @@ title: Rice Neural Data Library
 layout: default
 ---
 
-# Hello World
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+# What is NeuroLib?
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
-
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
+The Rice Neural Data Library is a archival data storage resource for the big data that modern
+systems neuroscience experiments gather. No more must you fear that a power surge will wipe out
+years of experiments. We will safely and securely store your data in the cloud while making it
+easy to access. What we ask in return is a moderate effort for curation. This facilitates the
+second aspect of the NeuroLib, facilitating collaborations between experimental and
+computational neuroscientists.
 
