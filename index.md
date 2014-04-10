@@ -4,10 +4,25 @@ layout: default
 ---
 
 # Hello World
+        <div class="col-lg-6">
+          <h4>Subheading</h4>
+          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
 
-Proin eleifend libero accumsan felis luctus nec consectetur purus commodo. Phasellus sodales
-est nec massa imperdiet commodo. Maecenas risus nulla, placerat vel vestibulum vel, dapibus
-quis libero.
+          <h4>Subheading</h4>
+          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
 
-Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien. Duis feugiat urna vel
-justo cursus facilisis. Vivamus ligula dui, convallis a varius vitae, facilisis eget magna.
+          <h4>Subheading</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        </div>
+
+        <div class="col-lg-6">
+          <h4>Subheading</h4>
+          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+
+          <h4>Subheading</h4>
+          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+
+          <h4>Subheading</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        </div>
+
