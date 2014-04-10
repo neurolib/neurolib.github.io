@@ -1,7 +1,17 @@
 ---
 title: Rice Neural Data Library
-layout: front
+layout: default
 ---
+
+
+<div class="jumbotron">
+  <h1>NeuroLib</h1>
+  <p class="lead">The Rice Neural Data Library. A resource for experimental and
+  computational systems neuroscientists.</p> <p><a class="btn btn-lg btn-success" href="#"
+  role="button">Sign up for more information</a></p>
+</div>
+
+<div class="row marketing">
 
 # What is NeuroLib?
 
