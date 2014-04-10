@@ -3,7 +3,6 @@ title: Rice Neural Data Library
 layout: default
 ---
 
-
 <div class="jumbotron">
   <h1>NeuroLib</h1>
   <p class="lead">The Rice Neural Data Library. A resource for experimental and
