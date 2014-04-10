@@ -9,9 +9,9 @@ layout: default
 <p class="lead">The Rice Neural Data Library.</p>
 
 <p class="lead"><em>A data depository resource for experimental and computational systems
-neuroscientists.<em></p>
+neuroscientists.</em></p>
 
-<p><a class="btn btn-lg btn-success" href="signup.html" role="button">Sign up for more information</a></p>
+<p><a class="btn btn-lg btn-success" href="/signup/" role="button">Sign up for more information</a></p>
 </div>
 
 <div class="row marketing">
