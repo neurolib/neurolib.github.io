@@ -15,6 +15,8 @@ layout: default
 
 <div class="row marketing">
 
+## <a name="about"></a>About NeuroLib
+
 ### What is NeuroLib?
 
 The Rice Neural Data Library is a archival data storage resource for the big data that modern
@@ -26,7 +28,8 @@ computational neuroscientists.
 
 ### Who are the NeuroLib team?
 
-The NeuroLib team includes Ashok Veeraraghavan, Jacob Robinson, and Caleb Kemere. We are
-supported by the [Ken Kennedy Institute](http://www.k2i.rice.edu/) at Rice University.
+The NeuroLib team includes Ashok Veeraraghavan, [Jacob Robinson](http://robinsonlab.com), 
+and [Caleb Kemere](http://rnel.rice.edu). We are supported by the [Ken Kennedy
+Institute](http://www.k2i.rice.edu/) at Rice University.
 
 
