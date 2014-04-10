@@ -1,6 +1,6 @@
 ---
 title: Rice Neural Data Library
-layout: default
+layout: front
 ---
 
 # What is NeuroLib?
