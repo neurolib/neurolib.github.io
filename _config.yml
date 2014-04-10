@@ -6,7 +6,7 @@ url: "[neurolib.github.io]"
 
 paginate: 10
 
-#markdown: rdiscount
+markdown: kramdowm
 permalink: pretty
 #pygments: true
 
