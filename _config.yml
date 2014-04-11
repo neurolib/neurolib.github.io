@@ -2,9 +2,7 @@
 name: "Rice NeuroLib"
 description: "The Neuroscience Data Library"
 
-url: "[neurolib.github.io]"
-
-paginate: 10
+url: "[neurolib.org]"
 
 markdown: rdiscount
 permalink: pretty
